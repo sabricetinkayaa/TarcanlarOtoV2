@@ -16,6 +16,9 @@ namespace WindowsFormsApp1.Model.Context
         }
         public DbSet<UrunDetay> UrunDetay { get; set; }
         public DbSet<Stok> Stok { get; set; }
+        public DbSet<Cari> Cari { get; set; }
+        public DbSet<FaturaFis> FaturaFis { get; set; }
+        public DbSet<FaturaTip> FaturaTip { get; set; }
 
     }
 }

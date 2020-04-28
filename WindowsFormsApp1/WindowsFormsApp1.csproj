@@ -58,7 +58,10 @@
   <ItemGroup>
     <Compile Include="Model\Context\OtoContext.cs" />
     <Compile Include="Model\Context\OtoDBInitializer.cs" />
+    <Compile Include="Model\Entity\FaturaFis.cs" />
+    <Compile Include="Model\Entity\FaturaTip.cs" />
     <Compile Include="Model\Entity\Stok.cs" />
+    <Compile Include="Model\Entity\Cari.cs" />
     <Compile Include="Model\Entity\UrunDetay.cs" />
     <Compile Include="NewBill.cs">
       <SubType>Form</SubType>

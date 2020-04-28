@@ -39,3 +39,15 @@ C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.
 C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\husey\Desktop\TarcanlarOto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\TarcanlarOtoV2-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\TarcanlarOtoV2-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\Proje\TarcanlarOtoV2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\Proje\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\Proje\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\TarcanlarOtoV2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sabri\Desktop\asd\TarcanlarOtoV2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Sabri\Desktop\asd\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sabri\Desktop\asd\TarcanlarOtoV2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
